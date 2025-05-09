@@ -1,0 +1,6 @@
+Flask
+pytest
+pytest-flask
+black
+flake8
+mypy
