@@ -4,3 +4,4 @@ pytest-flask
 black
 flake8
 mypy
+pytest-cov
